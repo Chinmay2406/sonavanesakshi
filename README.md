@@ -7,7 +7,4 @@ Hi there, I’m Sakshi Sonavane 👋
 💬 Ask me about Python, machine learning, SQL, full stack development, or anything AI-related.  
 📫 How to reach me: sakshisonavane86@gmail.com | [LinkedIn](https://www.linkedin.com/in/sakshi-s-3600811b2/) 
 😄 Pronouns: She/Her  
-
-
-
-
+remove pronous and add some quick tip about ur self
